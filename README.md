@@ -1,2 +1,0 @@
-# ScrapyQuotes
-Scrapy and Quotes
